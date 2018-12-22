@@ -1,3 +1,19 @@
-baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Aerial"
+baseurl = "https://ramtinazimi.com/"
+theme = "aerial"
+
+[params]
+  name = "Ramtin Azimi"
+  about = "Hi there! I am from Germany, working and living in Vietnam."
+  copyright = "Untitled"
+  #Disable the scrolling background by entering any string for bg_scroll. Enable by leaving bg_scroll empty.
+  bg_scroll = "s"
+  favicon = "favicon.ico"
+
+
+[[params.social]]
+  medium = "Github"
+  icon = "github"
+  link = "https://github.com/ramtinazimi"
+
