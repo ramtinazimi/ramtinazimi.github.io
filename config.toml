@@ -1,6 +1,6 @@
 languageCode = "en-us"
 title = "Aerial"
-baseurl = "https://ramtinazimi.com/"
+baseurl = ""
 theme = "aerial"
 
 [params]
